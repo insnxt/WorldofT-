@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae9dd68bd1574f34184744e122876c4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turretTransform: {instanceID: 0}
+  - projectilePrefab: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
